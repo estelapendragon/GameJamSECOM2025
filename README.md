@@ -12,7 +12,7 @@ A interação entre os jogadores não para por aí: cada erro cometido por um jo
 
 **❓ O que usamos?**
 Para a implementação: Godot Engine.
-Para os sprites, foram usados alguns disponíveis no itchio: (Sprite Pack 5)[https://grafxkid.itch.io/sprite-pack-5], (Cyberpunk Asset)[https://craftpix.net/sets/cyberpunk-platformer-asset-pixel-art/?utm_campaign=Website&utm_source=itch.io&utm_medium=cyberpunk-platformer-asset-pixel-art] e outros feitos de autoria do grupo.
+Para os sprites, foram usados alguns disponíveis no itchio: [Sprite Pack 5](https://grafxkid.itch.io/sprite-pack-5), [Cyberpunk Asset](https://craftpix.net/sets/cyberpunk-platformer-asset-pixel-art/?utm_campaign=Website&utm_source=itch.io&utm_medium=cyberpunk-platformer-asset-pixel-art) e outros feitos de autoria do grupo.
 Para a música: foram usadas músicas presentes na plataforma freesound.
 
 **📁 Arquivos Disponíveis**
