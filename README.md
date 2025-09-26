@@ -1,8 +1,8 @@
 # Game Jam SECOM 2025
 
-**🍓 Grupo:** Celestial. 
+**🍓 Grupo:** Celestial **👥 Membros:** Estela Miranda, Gabriel Magalhães, João Gabriel Bradachi e João Marcos Alves.
 
-**👥 Membros:** Estela Miranda, Gabriel Magalhães, João Gabriel Bradachi e João Marcos Alves.
+<br>
 
 **💡Ideia**
 
