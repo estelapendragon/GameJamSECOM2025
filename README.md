@@ -1,6 +1,5 @@
 # Game Jam SECOM 2025
-### Grupo: Celestial
-**👥 Membros:** Estela Miranda, Gabriel Magalhães, João Gabriel Bradachi e João Marcos Alves.
+**🍓 Grupo:** Celestial. **👥 Membros:** Estela Miranda, Gabriel Magalhães, João Gabriel Bradachi e João Marcos Alves.
 
 **💡Ideia**
 A ideia desenvolvida é um jogo cooperativo, que simulam a conexão entre um montador e um compilador de linguagens de programação. O jogo possui assim dois lados que simulam o processo de compilação das linguagens de programação, tendo um lado da tela como sendo o montador, que foi baseado no “Dinossauro do Chrome”, em que a pessoa deve coletar palavras de um código e desviar de “Bugs” que podem surgir. A segunda parte, representa o compilador em si, que transfere os códigos recebidos em instruções para o computador, sendo isso demonstrado por números binários.
